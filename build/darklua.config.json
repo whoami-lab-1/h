@@ -1,0 +1,6 @@
+{
+  "bundle": {
+    "require_mode": "path",
+    "modules_identifier": "__HARKENING_BUNDLE_MODULES"
+  }
+}
